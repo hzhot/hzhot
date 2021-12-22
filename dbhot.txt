@@ -1,1 +1,3 @@
 hello github
+console.write();
+rule test
